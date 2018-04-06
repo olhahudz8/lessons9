@@ -1,0 +1,16 @@
+.carousel-item img {
+    height: 390px;
+}
+
+main div.card {
+    width: 18rem;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+main.row {
+   margin: 0;
+}
